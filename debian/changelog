@@ -1,5 +1,11 @@
-vayu-apt-config (0.0.1+git20240714173315.aedf080.stable) stable; urgency=medium
+vayu-apt-config (0.0.2+git20240714183520.a0f48c6.stable) stable; urgency=medium
 
-    Build release: pre-configs before building new version 0.0.1-stable
+  [berbascum]
+  * (a0f48c6) Add .gitignore 
+  * (3394ab1) Update pkg_rootfs: Fix paths 
+  * (9f81c5d) Fix: debian dirs and links files 
+  * (c06a597) Update changelog 
+  * (15fe96a) Fixes: on debian control and compat files 
+  * (55b718f) Build release: pre-configs before building new version 0.0.1-stable 
 
- -- berbascum <berbascum@ticv.cat>  Sun, 14 Jul 2024 17:33:15 +0200
+ -- berbascum <berbascum@ticv.cat>  Sun, 14 Jul 2024 18:35:20 +0200
