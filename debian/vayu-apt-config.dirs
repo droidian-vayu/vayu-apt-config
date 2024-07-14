@@ -1,3 +1,6 @@
 /usr/share/vayu-apt-config/trusted.gpg.d
 /usr/share/vayu-apt-config/preferences.d
 /usr/share/vayu-apt-config/sources.list.d
+/etc/apt/trusted.gpg.d
+/etc/apt/sources.list.d
+/etc/apt/preferences.d
