@@ -1,4 +1,4 @@
-# avayu-apt-config DEPRECATED
+# vayu-apt-config DEPRECATED
 This repository is deprecated and archived.
 
 The package was splitted:
